@@ -1,0 +1,743 @@
+
+
+								MyAppConverter
+                           Version 1.0, Sep, 29 2014 - 13:31:56
+                        http://www.myappconverter.com/
+
+
+
+TRANSFORMATION MAPPING NOTES
+
+
+
+	
+	
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+[+] FILE: [AudioController.java] ---
+-Method with Name dictionaryWithCapacity is Mapped!
+-Method with Name getCount is Not Mapped!
+-Variable with Name effectInter and Type: Object is Mapped!
+-Variable with Name soundPath and Type: NSString is Mapped!
+-Method with Name mainBundle is Mapped!
+-Method with Name resourcePath is Mapped!
+-Method with Name stringByAppendingPathComponent is Not Mapped!
+-Variable with Name soundURL and Type: NSURL is Mapped!
+-Method with Name fileURLWithPath is Mapped!
+-Variable with Name loadError and Type: NSError is Mapped!
+-Variable with Name player and Type: AVAudioPlayer is Mapped!
+-Method with Name initWithContentsOfURLError is Mapped!
+-Method with Name setNumberOfLoops is Not Mapped!
+-Method with Name prepareToPlay is Mapped!
+-Variable with Name player and Type: AVAudioPlayer is Mapped!
+-Method with Name getIsPlaying is Not Mapped!
+-Method with Name setCurrentTime is Not Mapped!
+-Method with Name play is Mapped!
+
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+[+] FILE: [CounterLabelView.java] ---
+-Variable with Name label and Type: CounterLabelView is Not Mapped!
+-Method with Name initWithFrame is Mapped!
+-Method with Name setBackgroundColor is Not Mapped!
+-Method with Name clearColor is Mapped!
+-Method with Name setFont is Not Mapped!
+-Method with Name setValue is Not Mapped!
+-Method with Name setText is Not Mapped!
+-Method with Name stringWithFormat is Not Mapped!
+-Method with Name getValue is Not Mapped!
+-Method with Name setValue is Not Mapped!
+-Method with Name getValue is Not Mapped!
+-Method with Name intValue is Mapped!
+-Method with Name intValue is Mapped!
+-Method with Name getValue is Not Mapped!
+-Method with Name setValue is Not Mapped!
+-Method with Name getValue is Not Mapped!
+-Method with Name setValue is Not Mapped!
+-Method with Name performSelectorWithObjectAfterDelay is Mapped!
+-Method with Name getValue is Not Mapped!
+-Method with Name cancelPreviousPerformRequestsWithTarget is Mapped!
+-Method with Name getValue is Not Mapped!
+-Method with Name updateValueBy is Not Mapped!
+-Method with Name updateValueBy is Not Mapped!
+
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+[+] FILE: [ExplodeView.java] ---
+-Method with Name initWithFrame is Mapped!
+-Method with Name getLayer is Not Mapped!
+-Method with Name setEmitterPosition is Not Mapped!
+-Method with Name getBounds is Not Mapped!
+-Method with Name getBounds is Not Mapped!
+-Method with Name setEmitterSize is Not Mapped!
+-Method with Name getBounds is Not Mapped!
+-Method with Name setEmitterMode is Not Mapped!
+-Method with Name setEmitterShape is Not Mapped!
+-Method with Name __class is Mapped!
+-Method with Name didMoveToSuperview is Not Mapped!
+-Method with Name getSuperview is Not Mapped!
+-Variable with Name texture and Type: UIImage is Mapped!
+-Method with Name imageNamed is Mapped!
+-Variable with Name emitterCell and Type: CAEmitterCell is Not Mapped!
+-Method with Name emitterCell is Not Mapped!
+-Method with Name setContents is Not Mapped!
+-Method with Name CGImage is Not Mapped!
+-Method with Name setName is Not Mapped!
+-Method with Name setBirthRate is Not Mapped!
+-Method with Name setLifetime is Not Mapped!
+-Method with Name setBlueRange is Not Mapped!
+-Method with Name setBlueSpeed is Not Mapped!
+-Method with Name setVelocity is Not Mapped!
+-Method with Name setVelocityRange is Not Mapped!
+-Method with Name setScaleRange is Not Mapped!
+-Method with Name setScaleSpeed is Not Mapped!
+-Method with Name setEmissionRange is Not Mapped!
+-Method with Name setEmitterCells is Not Mapped!
+-Method with Name performSelectorWithObjectAfterDelay is Mapped!
+-Method with Name performSelectorWithObjectAfterDelay is Mapped!
+-Method with Name setValue is Not Mapped!
+
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+		
+				
+					
+				
+		
+		
+			
+				
+			
+		
+			
+		
+	
+		
+[+] FILE: [GameController.java] ---
+-Method with Name init is Mapped!
+-Method with Name setData is Not Mapped!
+-Method with Name init is Mapped!
+-Method with Name setAudioController is Not Mapped!
+-Method with Name init is Mapped!
+-Method with Name getAudioController is Not Mapped!
+-Method with Name preloadAudioEffects is Not Mapped!
+-Variable with Name randomIndex and Type: int is Not Mapped!
+-Method with Name getLevel is Not Mapped!
+-Method with Name getAnagrams is Not Mapped!
+-Method with Name count is Mapped!
+-Variable with Name anaPair and Type: NSArray is Mapped!
+-Method with Name getLevel is Not Mapped!
+-Method with Name getAnagrams is Not Mapped!
+-Variable with Name anagram1 and Type: NSString is Mapped!
+-Variable with Name anagram2 and Type: NSString is Mapped!
+-Variable with Name ana1len and Type: int is Not Mapped!
+-Method with Name length is Not Mapped!
+-Variable with Name ana2len and Type: int is Not Mapped!
+-Method with Name length is Not Mapped!
+-Variable with Name tileSide and Type: float is Not Mapped!
+-Method with Name mainScreen is Mapped!
+-Method with Name getBounds is Not Mapped!
+-Variable with Name xOffset and Type: float is Not Mapped!
+-Method with Name mainScreen is Mapped!
+-Method with Name getBounds is Not Mapped!
+-Method with Name arrayWithCapacity is Mapped!
+-Variable with Name i and Type: int is Not Mapped!
+-Variable with Name letter and Type: NSString is Mapped!
+-Method with Name substringWithRange is Mapped!
+-Method with Name isEqualToString is Mapped!
+-Variable with Name target and Type: TargetView is Not Mapped!
+-Method with Name initWithLetter is Not Mapped!
+-Method with Name setCenter is Not Mapped!
+-Method with Name mainScreen is Mapped!
+-Method with Name getBounds is Not Mapped!
+-Method with Name getGameView is Not Mapped!
+-Method with Name addSubview is Mapped!
+-Method with Name addObject is Mapped!
+-Method with Name arrayWithCapacity is Mapped!
+-Variable with Name i and Type: int is Not Mapped!
+-Variable with Name letter and Type: NSString is Mapped!
+-Method with Name substringWithRange is Mapped!
+-Method with Name isEqualToString is Mapped!
+-Variable with Name tile and Type: TileView is Not Mapped!
+-Method with Name initWithLetter is Not Mapped!
+-Method with Name setCenter is Not Mapped!
+-Method with Name mainScreen is Mapped!
+-Method with Name getBounds is Not Mapped!
+-Method with Name randomize is Not Mapped!
+-Method with Name setDragDelegate is Not Mapped!
+-Method with Name getGameView is Not Mapped!
+-Method with Name addSubview is Mapped!
+-Method with Name addObject is Mapped!
+-Method with Name startStopwatch is Not Mapped!
+-Variable with Name targetView and Type: TargetView is Not Mapped!
+-Variable with Name tvInter and Type: Object is Not Mapped!
+-Method with Name getFrame is Not Mapped!
+-Method with Name getLetter is Not Mapped!
+-Method with Name isEqualToString is Mapped!
+-Method with Name getLetter is Not Mapped!
+-Method with Name placeTile is Not Mapped!
+-Method with Name getAudioController is Not Mapped!
+-Method with Name playEffect is Not Mapped!
+-Method with Name getData is Not Mapped!
+-Method with Name setPoints is Not Mapped!
+-Method with Name getData is Not Mapped!
+-Method with Name getPoints is Not Mapped!
+-Method with Name getLevel is Not Mapped!
+-Method with Name getPointsPerTile is Not Mapped!
+-Method with Name getHud is Not Mapped!
+-Method with Name getGamePoints is Not Mapped!
+-Method with Name countTo is Not Mapped!
+-Method with Name getData is Not Mapped!
+-Method with Name getPoints is Not Mapped!
+-Method with Name checkForSuccess is Not Mapped!
+-Method with Name randomize is Not Mapped!
+-Method with Name animateWithDuration is Not Mapped!
+-Method with Name setCenter is Not Mapped!
+-Method with Name getCenter is Not Mapped!
+-Method with Name getCenter is Not Mapped!
+-Method with Name getAudioController is Not Mapped!
+-Method with Name playEffect is Not Mapped!
+-Method with Name getData is Not Mapped!
+-Method with Name setPoints is Not Mapped!
+-Method with Name getData is Not Mapped!
+-Method with Name getPoints is Not Mapped!
+-Method with Name getLevel is Not Mapped!
+-Method with Name getPointsPerTile is Not Mapped!
+-Method with Name getHud is Not Mapped!
+-Method with Name getGamePoints is Not Mapped!
+-Method with Name countTo is Not Mapped!
+-Method with Name getData is Not Mapped!
+-Method with Name getPoints is Not Mapped!
+-Method with Name setIsMatched is Not Mapped!
+-Method with Name setIsMatched is Not Mapped!
+-Method with Name setUserInteractionEnabled is Not Mapped!
+-Method with Name animateWithDuration is Not Mapped!
+-Method with Name setCenter is Not Mapped!
+-Method with Name getCenter is Not Mapped!
+-Method with Name setTransform is Not Mapped!
+-Method with Name setHidden is Not Mapped!
+-Variable with Name explode and Type: ExplodeView is Not Mapped!
+-Method with Name initWithFrame is Mapped!
+-Method with Name getCenter is Not Mapped!
+-Method with Name getCenter is Not Mapped!
+-Method with Name getSuperview is Not Mapped!
+-Method with Name addSubview is Mapped!
+-Method with Name getSuperview is Not Mapped!
+-Method with Name sendSubviewToBack is Mapped!
+-Variable with Name tInter and Type: Object is Not Mapped!
+-Method with Name isIsMatched is Not Mapped!
+-Method with Name stopStopwatch is Not Mapped!
+-Method with Name getAudioController is Not Mapped!
+-Method with Name playEffect is Not Mapped!
+-Variable with Name firstTarget and Type: TargetView is Not Mapped!
+-Variable with Name startX and Type: int is Not Mapped!
+-Variable with Name endX and Type: int is Not Mapped!
+-Method with Name mainScreen is Mapped!
+-Method with Name getBounds is Not Mapped!
+-Variable with Name startY and Type: int is Not Mapped!
+-Method with Name getCenter is Not Mapped!
+-Variable with Name stars and Type: StarDustView is Not Mapped!
+-Method with Name initWithFrame is Mapped!
+-Method with Name getGameView is Not Mapped!
+-Method with Name addSubview is Mapped!
+-Method with Name getGameView is Not Mapped!
+-Method with Name sendSubviewToBack is Mapped!
+-Method with Name animateWithDuration is Not Mapped!
+-Method with Name setCenter is Not Mapped!
+-Method with Name removeFromSuperview is Mapped!
+-Method with Name clearBoard is Not Mapped!
+-Method with Name getLevel is Not Mapped!
+-Method with Name getTimeToSolve is Not Mapped!
+-Method with Name getHud is Not Mapped!
+-Method with Name getStopwatch is Not Mapped!
+-Method with Name setSeconds is Not Mapped!
+-Method with Name scheduledTimerWithTimeIntervalTargetSelectorUserInfoRepeats is Mapped!
+-Method with Name invalidate is Mapped!
+-Method with Name getHud is Not Mapped!
+-Method with Name getStopwatch is Not Mapped!
+-Method with Name setSeconds is Not Mapped!
+-Method with Name stopStopwatch is Not Mapped!
+-Method with Name getBtnHelp is Not Mapped!
+-Method with Name addTargetActionForControlEvents is Mapped!
+-Method with Name getHud is Not Mapped!
+-Method with Name getBtnHelp is Not Mapped!
+-Method with Name setEnabled is Not Mapped!
+-Method with Name getData is Not Mapped!
+-Method with Name setPoints is Not Mapped!
+-Method with Name getData is Not Mapped!
+-Method with Name getPoints is Not Mapped!
+-Method with Name getLevel is Not Mapped!
+-Method with Name getPointsPerTile is Not Mapped!
+-Method with Name getHud is Not Mapped!
+-Method with Name getGamePoints is Not Mapped!
+-Method with Name countTo is Not Mapped!
+-Method with Name getData is Not Mapped!
+-Method with Name getPoints is Not Mapped!
+-Variable with Name target and Type: TargetView is Not Mapped!
+-Variable with Name tInter and Type: Object is Not Mapped!
+-Method with Name isIsMatched is Not Mapped!
+-Variable with Name tile and Type: TileView is Not Mapped!
+-Variable with Name tInter and Type: Object is Not Mapped!
+-Method with Name isIsMatched is Not Mapped!
+-Method with Name getLetter is Not Mapped!
+-Method with Name isEqualToString is Mapped!
+-Method with Name getLetter is Not Mapped!
+-Method with Name getGameView is Not Mapped!
+-Method with Name bringSubviewToFront is Mapped!
+-Method with Name animateWithDuration is Not Mapped!
+-Method with Name setCenter is Not Mapped!
+-Method with Name getCenter is Not Mapped!
+-Method with Name placeTile is Not Mapped!
+-Method with Name checkForSuccess is Not Mapped!
+-Method with Name getHud is Not Mapped!
+-Method with Name getBtnHelp is Not Mapped!
+-Method with Name setEnabled is Not Mapped!
+-Method with Name removeAllObjects is Mapped!
+-Method with Name removeAllObjects is Mapped!
+-Variable with Name viewInter and Type: Object is Mapped!
+-Method with Name getGameView is Not Mapped!
+-Method with Name getSubviews is Not Mapped!
+-Method with Name removeFromSuperview is Mapped!
+
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+[+] FILE: [HUDView.java] ---
+-Variable with Name hud and Type: HUDView is Not Mapped!
+-Method with Name initWithFrame is Mapped!
+-Method with Name setUserInteractionEnabled is Not Mapped!
+-Method with Name setStopwatch is Not Mapped!
+-Method with Name initWithFrame is Mapped!
+-Method with Name mainScreen is Mapped!
+-Method with Name getBounds is Not Mapped!
+-Method with Name getStopwatch is Not Mapped!
+-Method with Name setSetSeconds is Not Mapped!
+-Method with Name addSubview is Mapped!
+-Method with Name getStopwatch is Not Mapped!
+-Variable with Name pts and Type: UILabel is Mapped!
+-Method with Name initWithFrame is Mapped!
+-Method with Name mainScreen is Mapped!
+-Method with Name getBounds is Not Mapped!
+-Method with Name setBackgroundColor is Not Mapped!
+-Method with Name clearColor is Mapped!
+-Method with Name setFont is Not Mapped!
+-Method with Name fontWithNameSize is Mapped!
+-Method with Name setText is Not Mapped!
+-Method with Name addSubview is Mapped!
+-Method with Name setGamePoints is Not Mapped!
+-Method with Name labelWithFont is Not Mapped!
+-Method with Name fontWithNameSize is Mapped!
+-Method with Name mainScreen is Mapped!
+-Method with Name getBounds is Not Mapped!
+-Method with Name getGamePoints is Not Mapped!
+-Method with Name setTextColor is Not Mapped!
+-Method with Name colorWithRedGreenBlueAlpha is Mapped!
+-Method with Name addSubview is Mapped!
+-Method with Name getGamePoints is Not Mapped!
+-Variable with Name image and Type: UIImage is Mapped!
+-Method with Name imageNamed is Mapped!
+-Method with Name setBtnHelp is Not Mapped!
+-Method with Name buttonWithType is Mapped!
+-Method with Name getBtnHelp is Not Mapped!
+-Method with Name setTitleForState is Mapped!
+-Method with Name getBtnHelp is Not Mapped!
+-Method with Name getTitleLabel is Not Mapped!
+-Method with Name setFont is Not Mapped!
+-Method with Name fontWithNameSize is Mapped!
+-Method with Name getBtnHelp is Not Mapped!
+-Method with Name setBackgroundImageForState is Mapped!
+-Method with Name getBtnHelp is Not Mapped!
+-Method with Name setFrame is Not Mapped!
+-Method with Name getSize is Not Mapped!
+-Method with Name getSize is Not Mapped!
+-Method with Name getBtnHelp is Not Mapped!
+-Method with Name setAlpha is Not Mapped!
+-Method with Name addSubview is Mapped!
+-Method with Name getBtnHelp is Not Mapped!
+-Variable with Name hitView and Type: UIView is Mapped!
+-Method with Name hitTest is Not Mapped!
+-Method with Name isKindOfClass is Not Mapped!
+-Method with Name __class is Mapped!
+
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+[+] FILE: [Level.java] ---
+-Variable with Name fileName and Type: NSString is Mapped!
+-Method with Name stringWithFormat is Not Mapped!
+-Variable with Name levelPath and Type: NSString is Mapped!
+-Method with Name mainBundle is Mapped!
+-Method with Name resourcePath is Mapped!
+-Method with Name stringByAppendingPathComponent is Not Mapped!
+-Variable with Name levelDict and Type: NSDictionary is Mapped!
+-Method with Name dictionaryWithContentsOfFile is Mapped!
+-Variable with Name l and Type: Level is Not Mapped!
+-Method with Name init is Mapped!
+-Method with Name setPointsPerTile is Not Mapped!
+-Method with Name intValue is Mapped!
+-Method with Name setAnagrams is Not Mapped!
+-Method with Name setTimeToSolve is Not Mapped!
+-Method with Name intValue is Mapped!
+
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+[+] FILE: [StarDustView.java] ---
+-Method with Name __class is Mapped!
+-Method with Name initWithFrame is Mapped!
+-Method with Name getLayer is Not Mapped!
+-Method with Name setEmitterPosition is Not Mapped!
+-Method with Name getBounds is Not Mapped!
+-Method with Name getBounds is Not Mapped!
+-Method with Name setEmitterSize is Not Mapped!
+-Method with Name getBounds is Not Mapped!
+-Method with Name setEmitterMode is Not Mapped!
+-Method with Name setEmitterShape is Not Mapped!
+-Method with Name didMoveToSuperview is Not Mapped!
+-Method with Name getSuperview is Not Mapped!
+-Variable with Name texture and Type: UIImage is Mapped!
+-Method with Name imageNamed is Mapped!
+-Variable with Name emitterCell and Type: CAEmitterCell is Not Mapped!
+-Method with Name emitterCell is Not Mapped!
+-Method with Name setContents is Not Mapped!
+-Method with Name CGImage is Not Mapped!
+-Method with Name setName is Not Mapped!
+-Method with Name setBirthRate is Not Mapped!
+-Method with Name setLifetime is Not Mapped!
+-Method with Name setBlueRange is Not Mapped!
+-Method with Name setBlueSpeed is Not Mapped!
+-Method with Name setYAcceleration is Not Mapped!
+-Method with Name setXAcceleration is Not Mapped!
+-Method with Name setVelocity is Not Mapped!
+-Method with Name setVelocityRange is Not Mapped!
+-Method with Name setScaleRange is Not Mapped!
+-Method with Name setScaleSpeed is Not Mapped!
+-Method with Name setEmissionRange is Not Mapped!
+-Method with Name setEmitterCells is Not Mapped!
+-Method with Name setValue is Not Mapped!
+
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+[+] FILE: [StopwatchView.java] ---
+-Method with Name initWithFrame is Mapped!
+-Method with Name setBackgroundColor is Not Mapped!
+-Method with Name clearColor is Mapped!
+-Method with Name setFont is Not Mapped!
+-Method with Name fontWithNameSize is Mapped!
+-Method with Name setText is Not Mapped!
+-Method with Name stringWithFormat is Not Mapped!
+
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+[+] FILE: [TargetView.java] ---
+-Variable with Name img and Type: UIImage is Mapped!
+-Method with Name imageNamed is Mapped!
+-Method with Name initWithImage is Mapped!
+-Method with Name setIsMatched is Not Mapped!
+-Variable with Name scale and Type: float is Not Mapped!
+-Method with Name getSize is Not Mapped!
+-Method with Name setFrame is Not Mapped!
+-Method with Name getSize is Not Mapped!
+-Method with Name getSize is Not Mapped!
+
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+		
+		
+				
+					
+				
+					
+				
+		
+		
+			
+				
+			
+		
+			
+		
+	
+		
+[+] FILE: [TileView.java] ---
+-Variable with Name img and Type: UIImage is Mapped!
+-Method with Name imageNamed is Mapped!
+-Method with Name initWithImage is Mapped!
+-Variable with Name scale and Type: float is Not Mapped!
+-Method with Name getSize is Not Mapped!
+-Method with Name setFrame is Not Mapped!
+-Method with Name getSize is Not Mapped!
+-Method with Name getSize is Not Mapped!
+-Variable with Name lblChar and Type: UILabel is Mapped!
+-Method with Name initWithFrame is Mapped!
+-Method with Name getBounds is Not Mapped!
+-Method with Name setTextAlignment is Not Mapped!
+-Method with Name setTextColor is Not Mapped!
+-Method with Name whiteColor is Mapped!
+-Method with Name setBackgroundColor is Not Mapped!
+-Method with Name clearColor is Mapped!
+-Method with Name setText is Not Mapped!
+-Method with Name uppercaseString is Not Mapped!
+-Method with Name setFont is Not Mapped!
+-Method with Name fontWithNameSize is Mapped!
+-Method with Name addSubview is Mapped!
+-Method with Name setIsMatched is Not Mapped!
+-Method with Name setUserInteractionEnabled is Not Mapped!
+-Method with Name getLayer is Not Mapped!
+-Method with Name setShadowColor is Not Mapped!
+-Method with Name blackColor is Mapped!
+-Method with Name getCGColor is Not Mapped!
+-Method with Name getLayer is Not Mapped!
+-Method with Name setShadowOpacity is Not Mapped!
+-Method with Name getLayer is Not Mapped!
+-Method with Name setShadowOffset is Not Mapped!
+-Method with Name getLayer is Not Mapped!
+-Method with Name setShadowRadius is Not Mapped!
+-Method with Name getLayer is Not Mapped!
+-Method with Name setMasksToBounds is Not Mapped!
+-Variable with Name path and Type: UIBezierPath is Not Mapped!
+-Method with Name bezierPathWithRect is Not Mapped!
+-Method with Name getBounds is Not Mapped!
+-Method with Name getLayer is Not Mapped!
+-Method with Name setShadowPath is Not Mapped!
+-Method with Name getCGPath is Not Mapped!
+-Variable with Name rotation and Type: float is Not Mapped!
+-Method with Name setTransform is Not Mapped!
+-Variable with Name yOffset and Type: int is Not Mapped!
+-Method with Name setCenter is Not Mapped!
+-Method with Name getCenter is Not Mapped!
+-Method with Name getCenter is Not Mapped!
+-Variable with Name pt and Type: CGPoint is Mapped!
+-Method with Name anyObject is Mapped!
+-Method with Name locationInView is Mapped!
+-Method with Name getSuperview is Not Mapped!
+-Method with Name getCenter is Not Mapped!
+-Method with Name getCenter is Not Mapped!
+-Method with Name getLayer is Not Mapped!
+-Method with Name setShadowOpacity is Not Mapped!
+-Method with Name getTransform is Not Mapped!
+-Method with Name setTransform is Not Mapped!
+-Method with Name getTransform is Not Mapped!
+-Method with Name getSuperview is Not Mapped!
+-Method with Name bringSubviewToFront is Mapped!
+-Variable with Name pt and Type: CGPoint is Mapped!
+-Method with Name anyObject is Mapped!
+-Method with Name locationInView is Mapped!
+-Method with Name getSuperview is Not Mapped!
+-Method with Name setCenter is Not Mapped!
+-Method with Name touchesMovedWithEvent is Mapped!
+-Method with Name setTransform is Not Mapped!
+-Method with Name getDragDelegate is Not Mapped!
+-Method with Name getDragDelegate is Not Mapped!
+-Method with Name tileView is Not Mapped!
+-Method with Name getCenter is Not Mapped!
+-Method with Name getLayer is Not Mapped!
+-Method with Name setShadowOpacity is Not Mapped!
+-Method with Name setTransform is Not Mapped!
+-Method with Name getLayer is Not Mapped!
+-Method with Name setShadowOpacity is Not Mapped!
+
+		
+		
+				
+					
+				
+		
+		
+			
+		
+	
+	
+	
+
+
+
+END OF TRANSFORMATION MAPPING NOTES
+(c)	www.myappconverter.com
+
